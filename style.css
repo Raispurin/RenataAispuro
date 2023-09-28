@@ -1,0 +1,56 @@
+
+body{
+    text-align: center;
+    background-color: #fcf1e7;
+    margin: 0px;
+    background-image: url("imagenes/fondorepetido.PNG");
+    background-size: 10%;
+}
+.container{
+    margin: 0px auto;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: rgb(176, 200, 171);
+    width: 900px;
+    color:dimgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+h1 {
+  font-family: 'Rock Salt', cursive;
+  color:rgb(68, 41, 57);
+  font-size: 45px;
+  margin: 0px;
+}
+h2 {
+  font-family: 'Rock Salt', cursive;
+  color:rgb(68, 41, 57);;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0px;
+}
+p {
+  margin: 0px auto;
+  font-family: 'Delius', cursive;
+  font-size: 20px;
+  line-height: 1.6;
+  max-width: 33em;
+  text-align: left;
+}
+.list {
+  margin: 0px auto;
+  font-family: 'Delius', cursive;
+  font-size: 20;
+  line-height: 1.6;
+  max-width: 33em;
+  text-align: left;
+
+}
+
+a:hover {
+  color: rgb(255, 0, 85);; /* Cambia el color a tu preferencia utilizando un código de color hexadecimal o un nombre de color */
+}
